@@ -1,0 +1,4 @@
+NiftyDialogEffect
+=================
+
+NiftyDialogEffects
